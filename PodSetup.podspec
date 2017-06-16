@@ -33,12 +33,6 @@ s.author             = { "Niranjan SIngh Patel" => "niranjan.infograins@gmail.co
 s.source       = { :git => "https://github.com/niranjanIos/DemoTest.git", :tag => "#{s.version}" }
 
 
-s.source_files  = "PodSetup", "PodSetup/**/*.{h,m}"
-s.exclude_files = "Classes/Exclude"
-
-# s.public_header_files = "PodSetup/**/*.h"
-
-
 # s.resource  = "icon.png"
 # s.resources = "Resources/*.png"
 
